@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@100&display=swap');
+
+body{
+    font-family:'Roboto Mono', monospace;
+    
+}
+.top-header{
+    background-color: black;
+    color: white;
+}
+.main-header{
+    background-color:#F0A83E ;
+    color: white;
+}
+.banner{
+    background-image: url("../img/bowl-and-pet-daities-on-green-background\ 1.png");
+    background-size: 1500px;
+    background-repeat: no-repeat;
+    background-position: center;
+    text-align: center;
+    block-size: 500px;
+}
